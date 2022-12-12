@@ -3,6 +3,7 @@
 // alert("me");
 // document.write("this is document write")
 
+
 // 2. Javascript console API
 // console.log("Hello World", 4 + 6, "Another log");
 // console.warn("this is warning");
